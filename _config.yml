@@ -10,21 +10,20 @@
 ############################
 
 # Name of website
-title: My Website
+title: Sun-shroom的小窝
 
 # Your name to show in the footer
-author: Some Person
+author: 快手的Sun-shroom
 
 ###############################################
 # --- List of links in the navigation bar --- #
 ###############################################
 
 navbar-links:
-  About Me: "aboutme"
+  About Me: "Sun-shroom"
   Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+    - PlantsVsZombiesV.NAGV.03: "https://www.123pan.com/s/f2W5Vv-l9mhd.html"
+  Author's home: "https://www.kuaishou.com/profile/3xp35jfn2mmbhwk"
 
 ################
 # --- Logo --- #
